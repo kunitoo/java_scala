@@ -1,0 +1,10 @@
+<members>
+    <member gneder="male">
+      <id>1</id>
+      <name>Taro</name>
+    </member>
+    <member gneder="female">
+      <id>2</id>
+      <name>Hanako</name>
+    </member>
+  </members>
